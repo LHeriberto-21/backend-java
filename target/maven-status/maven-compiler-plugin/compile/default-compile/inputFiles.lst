@@ -1,0 +1,8 @@
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\ApiApplication.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\controller\UserController.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\entity\UserEntity.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\exceptions\DuplicateResourceException.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\exceptions\GloblalExceptionHandler.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\exceptions\ResourceNotFoundException.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\repository\UserRepository.java
+C:\Users\Heriberto\AndroidStudioProjects\Backend\api\api\src\main\java\com\backend\android\api\service\UserService.java
